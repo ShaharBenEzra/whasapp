@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Mickey Mouse",
+    "avatar": "/MickeyMouse.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Minnie Mouse",
+    "avatar": "/Minnie Mouse.png"
+  },
+  {
+    "id": 3,
+    "name": "Donald Duck",
+    "avatar": "/Donald Duck.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Daisy Duck",
+    "avatar": "/Daisy Duck.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Goofy",
+    "avatar": "/Goofi.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Pluto",
+    "avatar": "/Pluto.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Simba",
+    "avatar": "/Simba.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Nala",
+    "avatar": "/Nala.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Ariel",
+    "avatar": "/Ariel.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Belle",
+    "avatar": "/Belle.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Cinderella",
+    "avatar": "/Cinderella.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Snow White",
+    "avatar": "/Snow Whit.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Elsa",
+    "avatar": "/Elsa.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Anna",
+    "avatar": "/Anna.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Buzz Lightyear",
+    "avatar": "/Buzz.jpeg"
+  }
+]
